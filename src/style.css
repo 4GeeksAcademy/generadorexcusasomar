@@ -1,5 +1,18 @@
-@import "bootstrap/dist/css/bootstrap.min.css";
-
 body{
-    background: white;
+  	
+	height: 100vh;
+	justify-content: center;
+	align-content: center;
+    align-items: center;
+ 
 }
+
+#excuse{
+   font-size: 50px;
+   display: inline;
+}
+
+h1{
+    font-size: 60px;
+}
+
